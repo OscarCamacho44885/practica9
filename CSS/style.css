@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    text-align: center;
+    background-color: rgb(227, 42, 9);
+}
+nav{
+    text-align: center;
+    background-color: rgb(56, 55, 55);
+}
+table thead{
+    background-color: rgb(174, 0, 255);
+}
+table tbody{
+
+    background-color: aquamarine;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+div div{
+    background-color: rgb(182, 2, 104);
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: azure;
+    background-color: black;
+}
